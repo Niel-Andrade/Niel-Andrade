@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3> 🚀 Um pouco sobre mim 🚀</h3>
 
 - 💻 &nbsp; Pesquisando e aprendendo linguagens de programação, e o desenvolvimento de front e back-end.
@@ -9,11 +9,14 @@
 
 <h3> :rocket: &nbsp;Minhas Skills &nbsp; 🚀</h3>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-andrade&layout=compact&langs_count=7&theme=dark" min-width="390px" max-width="390px" width="390px" align="right" alt="status-Niel-Andrade">
+
 **Aplicações e Dados**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
 
 
 **DevOps**
