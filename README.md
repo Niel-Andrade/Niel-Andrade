@@ -9,8 +9,6 @@
 
 <h3> :rocket: &nbsp;Minhas Skills &nbsp; 🚀</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-andrade&layout=compact&langs_count=7&theme=dark" min-width="390px" max-width="390px" width="390px" align="right" alt="status-Niel-Andrade">
-
 **Aplicações e Dados**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -43,4 +41,5 @@
 
   <a href="https://www.instagram.com/nielzinhoandrade/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p> 
+</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niel-andrade&layout=compact&langs_count=7&theme=dark" min-width="390px" max-width="390px" width="390px" align="right" alt="status-Niel-Andrade">
