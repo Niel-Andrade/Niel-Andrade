@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem-de-www.freepik.com">
 <h3> 🚀 Um pouco sobre mim 🚀</h3>
 
 - 💻 &nbsp; Pesquisando e aprendendo linguagens de programação, e o desenvolvimento de front e back-end.
